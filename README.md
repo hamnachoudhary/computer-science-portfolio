@@ -1,22 +1,24 @@
 # Computer Science Portfolio
 
-Welcome to my Computer Science portfolio!
-
-I am an A-level student preparing for undergraduate Computer Science studies for Fall 2027. I am developing my programming skills through independent practice, coursework, and beginner projects.
-
-## Skills
-- Python fundamentals
-- Functions and conditional statements
-- User input and string manipulation
-- Basic problem-solving
+Welcome to my portfolio! I am an A-level student preparing for undergraduate Computer Science studies in Fall 2027.
 
 ## Projects
 
-### 1. CS50 Python — Selected Problem Sets
-Selected assignments completed while studying Harvard's CS50 Introduction to Programming with Python.
+### Interactive Quiz App
+A beginner Python program featuring multiple-choice questions, answer checking, score tracking, and percentage calculation.
 
-### 2. Interactive Quiz App
-A beginner Python project that uses questions, user input, and conditional logic.
+[View the project folder](interactive-quiz/)
 
-## About
-This portfolio documents my learning journey, projects, and progress in Computer Science.
+## Learning and Coursework
+
+### Harvard CS50's Introduction to Programming with Python
+I have worked on selected problem sets while learning Python fundamentals. I have not completed the full course or earned a certificate.
+
+Topics practised include:
+- Functions and conditional statements
+- User input and string manipulation
+- Arithmetic and type conversion
+- Problem-solving with Python
+
+## Goal
+To continue developing my programming skills and build practical Computer Science projects.
