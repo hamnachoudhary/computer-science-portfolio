@@ -10,6 +10,7 @@ A beginner Python program featuring multiple-choice questions, answer checking, 
 [View the project folder](interactive-quiz/)
 
 ## Learning and Coursework
+[View my CS50 coursework](cs50-coursework/)
 
 ### Harvard CS50's Introduction to Programming with Python
 I have worked on selected problem sets while learning Python fundamentals. I have not completed the full course or earned a certificate.
