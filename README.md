@@ -3,9 +3,13 @@
 Welcome to my portfolio! I am an A-level student preparing for undergraduate Computer Science studies in Fall 2027.
 
 ## Projects
+### Interactive Quiz App | Python
 
-### Interactive Quiz App
-A beginner Python program featuring multiple-choice questions, answer checking, score tracking, and percentage calculation.
+I built a beginner Python quiz to practise programming concepts. It asks the player for their name, presents two multiple-choice questions, checks their answers, keeps track of their score, and calculates their final percentage.
+
+**Concepts practised:** Variables, user input, `if/else` statements, string methods, and arithmetic.
+
+[View the project files](https://github.com/hamnachoudhary/computer-science-portfolio/tree/main/interactive-quiz)
 
 [View the project folder](interactive-quiz/)
 
