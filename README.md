@@ -1,5 +1,10 @@
 # Computer Science Portfolio
 
+## About Me
+
+I am an A-level student preparing to pursue a Bachelor's degree in Computer Science in Fall 2027. I am developing my programming skills through Python projects and selected coursework, with a focus on problem-solving and learning the fundamentals of Computer Science.
+
+Outside academics, I enjoy reading historical fiction and exploring new books.
 Welcome to my portfolio! I am an A-level student preparing for undergraduate Computer Science studies in Fall 2027.
 
 ## Projects
