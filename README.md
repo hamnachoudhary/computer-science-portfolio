@@ -13,6 +13,12 @@ I built a beginner Python quiz to practise programming concepts. It asks the pla
 
 [View the project folder](interactive-quiz/)
 
+### CS50 Python — Selected Problem Sets
+
+Practised Python through selected exercises from Harvard's CS50 Introduction to Programming with Python. The exercises helped me practise string manipulation, conditional logic, functions, and calculations.
+
+[View my CS50 coursework and solutions](cs50-coursework/)
+
 ## Learning and Coursework
 [View my CS50 coursework](cs50-coursework/)
 
