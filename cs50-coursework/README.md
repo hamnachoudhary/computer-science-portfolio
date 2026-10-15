@@ -17,6 +17,11 @@ I studied selected problem sets from Harvard's CS50 Introduction to Programming 
 | Extensions | String methods and file extensions |
 | Interpreter | Functions and expression handling |
 
+### View My Work
+
+- [Meal Time — Python solution](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/meal/meal.py)
+
+
 ## Learning Goals
 
 - Strengthen Python fundamentals
