@@ -17,10 +17,21 @@ I studied selected problem sets from Harvard's CS50 Introduction to Programming 
 | Extensions | String methods and file extensions |
 | Interpreter | Functions and expression handling |
 
+
 ### View My Work
 
-- [Meal Time — Python solution](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/meal/meal.py)
+My solutions to selected CS50 Python problem sets are available below:
 
+1. [Meal Time](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/meal/meal.py)
+2. [Indoor Voice](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/indoor/indoor.py)
+3. [Playback Speed](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/playback/playback.py)
+4. [Faces](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/faces/faces.py)
+5. [Einstein](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/einstein/einstein.py)
+6. [Tip Calculator](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/tip/tip.py)
+7. [Deep Thought](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/deep/deep.py)
+8. [Bank](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/bank/bank.py)
+9. [Extensions](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/extensions/extensions.py)
+10. [Interpreter](https://github.com/me50/hamnachoudhary/blob/cs50/problems/2022/python/interpreter/interpreter.py)
 
 ## Learning Goals
 
