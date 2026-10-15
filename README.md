@@ -19,6 +19,13 @@ Practised Python through selected exercises from Harvard's CS50 Introduction to 
 
 [View my CS50 coursework and solutions](cs50-coursework/)
 
+## Technical Skills
+
+- **Programming language:** Python
+- **Fundamentals:** Variables, user input, conditional statements, string manipulation, and arithmetic
+- **Problem-solving:** Beginner-level programming exercises and debugging
+- **Tools:** GitHub for presenting projects and coursework
+  
 ## Learning and Coursework
 [View my CS50 coursework](cs50-coursework/)
 
